@@ -1,2 +1,2 @@
 <?php
-echo "new php - Hello world";
+echo "new php - Hello world new php";
